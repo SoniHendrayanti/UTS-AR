@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="KUPUKUPU" size="50.000000 33.333332" />
+    <ImageTarget name="HARIMAU" size="50.000000 33.349609" />
+  </Tracking>
+</QCARConfig>
